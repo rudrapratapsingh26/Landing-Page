@@ -43,7 +43,7 @@ A mockup of the landing page includes:
 
 ## 🌐 Live Preview
 You can view the live version of this project here:  
-👉 [Live Demo](https://your-rudrapratapsingh26.github.io/Landing-page/)
+👉 [Live Demo](https://rudrapratapsingh26.github.io/Landing-page/)
 ---
 
 ## 📜 Attribution
